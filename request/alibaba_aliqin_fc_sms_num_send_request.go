@@ -8,9 +8,7 @@
 
 package request
 
-import (
-	"errors"
-)
+import "errors"
 
 // Top API: alibaba.aliqin.fc.sms.num.send
 // 详细参数请参考官方Api文档：https://api.alidayu.com/docs/api.htm?apiId=25450
