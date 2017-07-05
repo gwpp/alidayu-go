@@ -77,7 +77,7 @@ go get github.com/gwpp/alidayu-go
 
     ```
 
-** 具体示例代码请参考[alidayu_test.go](alidayu_test.go) **
+***具体示例代码请参考[alidayu_test.go](alidayu_test.go)***
 
 ## 扩展
 这个SDK的关键点不是实现了阿里大鱼的3个API，而是给使用者提供了一个可以自由扩展的框架，使用者只需要按照一套固定的格式写几十行代码就能够实现其他的API，扩展方法请看这篇博客[阿里大鱼Golang SDK —— alidayu-go](http://www.jianshu.com/p/8c5c6fcc82d4)
