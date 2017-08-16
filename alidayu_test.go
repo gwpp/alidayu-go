@@ -15,9 +15,9 @@ import (
 )
 
 const (
-	APP_KEY            = "your app key"
-	APP_SECRET         = "your app secret"
-	PHONE_NUM          = "send phone number"
+	APP_KEY            = "your APP_KEY"
+	APP_SECRET         = "your APP_SECRET"
+	PHONE_NUM          = "send PHONE_NUM"
 	SMS_TEMPLATE_CODE  = "your SMS_TEMPLATE_CODE"
 	SMS_FREE_SIGN_NAME = "your SMS_FREE_SIGN_NAME"
 	CALL_SHOW_NUM      = "your CALL_SHOW_NUM"
