@@ -15,15 +15,12 @@ import (
 )
 
 const (
-	//APP_KEY    = "12345678"
-	//APP_SECRET = "a8d91bae29c3333d58d2222e346e2cde"
-
-	APP_KEY            = "24534275"
-	APP_SECRET         = "a8d91bae29c30f5d58d285be346e2cde"
-	PHONE_NUM          = "17706427626"
-	SMS_TEMPLATE_CODE  = "SMS_75790179"
-	SMS_FREE_SIGN_NAME = "愿望卡"
-	CALL_SHOW_NUM      = "4001112222"
+	APP_KEY            = "your app key"
+	APP_SECRET         = "your app secret"
+	PHONE_NUM          = "send phone number"
+	SMS_TEMPLATE_CODE  = "your SMS_TEMPLATE_CODE"
+	SMS_FREE_SIGN_NAME = "your SMS_FREE_SIGN_NAME"
+	CALL_SHOW_NUM      = "your CALL_SHOW_NUM"
 )
 
 func TestSendSMS(t *testing.T) {
